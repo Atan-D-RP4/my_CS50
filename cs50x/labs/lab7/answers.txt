@@ -1,0 +1,21 @@
+For Spotify Wrapped, Characterization of the Aura for the listener:
+SELECT AVG(energy),
+   ...> AVG(danceability),
+   ...> AVG(valence),
+   ...> (AVG(energy) + AVG(valence) + AVG(danceability)) / 3 as aura
+   ...> FROM songs;
+
+How I would Characterize the Aura for a listener:
+SELECT AVG(energy),
+   ...> AVG(danceability),
+   ...> AVG(valence),
+   ...> AVG(tempo),
+   ...> AVG(loudness),
+   ...> AVG(speechiness),
+   ...> (AVG(energy) + AVG(danceability) + AVG(valence) + AVG(tempo) + AVG(loudness) + AVG(speechiness)) / 5
+   ...> AS audio_aura
+   ...> FROM songs;
+
+Only the 3 checked parameters might not be very representative of the viewers mood.
+We have access to more parameters than that which should also be considered.
+I do so in the above query.

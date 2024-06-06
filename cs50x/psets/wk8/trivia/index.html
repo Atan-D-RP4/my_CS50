@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+        <script>
+            // TODO: Add code to check answers to questions
+
+            document.addEventListener("DOMContentLoaded", function() {
+                const corrects = document.querySelectorAll("#correct");
+                const incorrects = document.querySelectorAll("#incorrect");
+
+                corrects.forEach((correct) => {
+                    correct.addEventListener("click", function() {
+                        // set all buttons to default color
+                        corrects.forEach((button) => {
+                            button.style.backgroundColor = "#d9edff";
+                        });
+                        incorrects.forEach((button) => {
+                            button.style.backgroundColor = "#d9edff";
+                        });
+                        correct.style.backgroundColor = "green";
+                    });
+                });
+
+                incorrects.forEach((incorrect) => {
+                    incorrect.addEventListener("click", function() {
+                        corrects.forEach((button) => {
+                            button.style.backgroundColor = "#d9edff";
+                        });
+                        incorrects.forEach((button) => {
+                            button.style.backgroundColor = "#d9edff";
+                        });
+                        incorrect.style.backgroundColor = "red";
+                    });
+                });
+
+                const check = document.querySelector("#check");
+                const inputQ2 = document.querySelector("#inputQ2");
+                const feedback = document.querySelector("#feedback");
+
+                check.addEventListener("click", function() {
+                    if (inputQ2.value.toLowerCase() === "bogota") {
+                        feedback.innerHTML = "Correct!";
+                        feedback.style.color = "green";
+                        inputQ2.style.backgroundColor = "green";
+                    } else {
+                        feedback.innerHTML = "Incorrect!";
+                        feedback.style.color = "red";
+                        inputQ2.style.backgroundColor = "red";
+                    }
+                });
+            });
+
+        </script>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <!-- TODO: Add multiple choice question here -->
+                <h3>What is capital of California?</h3>
+                    <button id="incorrect">Los Angeles</button>
+                    <button id="correct">Sacramento</button>
+                    <button id="incorrect">San Francisco</button>
+                    <button id="incorrect">San Diego</button>
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <!-- TODO: Add free response question here -->
+                <h3>What is the Capital of Colombia?</h3>
+                <input type="text" id="inputQ2"></input>
+                <button id="check">Check Answer</button>
+                <p id="feedback"></p>
+            </div>
+        </div>
+        </div>
+    </body>
+</html>
