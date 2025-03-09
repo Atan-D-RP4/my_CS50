@@ -1,5 +1,4 @@
 from PIL import Image, ImageOps
-import tabulate
 from sys import argv, exit
 
 def main():
