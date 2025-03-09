@@ -1,0 +1,13 @@
+cs50
+check50
+submit50
+flask
+flask_session
+emoji
+tabulate
+requests
+Pillow
+pytest
+pyfiglet
+validators
+fpdf2

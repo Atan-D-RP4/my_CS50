@@ -58,10 +58,10 @@ We would strongly prefer to send you this information by email
 (Internet,  Bitnet, Compuserve, ATTMAIL or MCImail).
 Email requests to:
 
-Internet:    hart@vmd.cso.uiuc.edu 
+Internet:    hart@vmd.cso.uiuc.edu
 Bitnet:      hart@uiucvmd or hart@uiucvmd.bitnet
-Compuserve:  >internet:hart@vmd.cso.uiuc.edu  
-Attmail:     internet!vmd.cso.uiuc.edu!HART   
+Compuserve:  >internet:hart@vmd.cso.uiuc.edu
+Attmail:     internet!vmd.cso.uiuc.edu!HART
 MCImail:  ADDRESS TYPE: MCI / EMS: INTERNET / MBX: hart@vmd.cso.uiuc.edu
 ******
 If you have an FTP program (or emulator), please:
@@ -388,14 +388,14 @@ In the course of the preceding observations, I have had an eye,
  judged of by all. They shall at least be offered in a spirit which
  will not disgrace the cause of truth.
 I propose, in a series of papers, to discuss the following
- interesting particulars: 
+ interesting particulars:
 THE UTILITY OF THE UNION TO YOUR POLITICAL PROSPERITY
 THE INSUFFICIENCY OF THE PRESENT CONFEDERATION
  TO PRESERVE THAT UNION  THE NECESSITY OF A GOVERNMENT AT LEAST
  EQUALLY ENERGETIC WITH THE ONE PROPOSED, TO THE ATTAINMENT OF THIS
  OBJECT  THE CONFORMITY OF THE PROPOSED CONSTITUTION TO THE TRUE
- PRINCIPLES OF REPUBLICAN GOVERNMENT 
- ITS ANALOGY TO YOUR OWN STATE CONSTITUTION 
+ PRINCIPLES OF REPUBLICAN GOVERNMENT
+ ITS ANALOGY TO YOUR OWN STATE CONSTITUTION
  and lastly, THE ADDITIONAL SECURITY WHICH ITS
  ADOPTION WILL AFFORD TO THE PRESERVATION OF THAT SPECIES OF
  GOVERNMENT, TO LIBERTY, AND TO PROPERTY.
@@ -922,7 +922,7 @@ JAY
 To the People of the State of New York:
 QUEEN ANNE, in her letter of the 1st July, 1706, to the Scotch
  Parliament, makes some observations on the importance of the UNION
- then forming between England and Scotland, which merit our attention. 
+ then forming between England and Scotland, which merit our attention.
  I shall present the public with one or two extracts from it: ``An
  entire and perfect union will be the solid foundation of lasting
  peace: It will secure your religion, liberty, and property; remove
@@ -1146,7 +1146,7 @@ To multiply examples of the agency of personal considerations in
 But notwithstanding the concurring testimony of experience, in
  this particular, there are still to be found visionary or designing
  men, who stand ready to advocate the paradox of perpetual peace
- between the States, though dismembered and alienated from each other. 
+ between the States, though dismembered and alienated from each other.
  The genius of republics (say they) is pacific; the spirit of
  commerce has a tendency to soften the manners of men, and to
  extinguish those inflammable humors which have so often kindled into
@@ -1197,7 +1197,7 @@ Venice, in later times, figured more than once in wars of
  which gave a deadly blow to the power and pride of this haughty
  republic.
 The provinces of Holland, till they were overwhelmed in debts
- and taxes, took a leading and conspicuous part in the wars of Europe. 
+ and taxes, took a leading and conspicuous part in the wars of Europe.
  They had furious contests with England for the dominion of the
  sea, and were among the most persevering and most implacable of the
  opponents of Louis XIV.
@@ -1698,7 +1698,7 @@ If we are wise enough to preserve the Union we may for ages
  a short course of time, in the predicament of the continental powers
  of Europe --our liberties would be a prey to the means of defending
  ourselves against the ambition and jealousy of each other.
-This is an idea not superficial or futile, but solid and weighty. 
+This is an idea not superficial or futile, but solid and weighty.
  It deserves the most serious and mature consideration of every
  prudent and honest man of whatever party. If such men will make a
  firm and solemn pause, and meditate dispassionately on the
@@ -2066,7 +2066,7 @@ If a faction consists of less than a majority, relief is
  supplied by the republican principle, which enables the majority to
  defeat its sinister views by regular vote. It may clog the
  administration, it may convulse the society; but it will be unable
- to execute and mask its violence under the forms of the Constitution. 
+ to execute and mask its violence under the forms of the Constitution.
  When a majority is included in a faction, the form of popular
  government, on the other hand, enables it to sacrifice to its ruling
  passion or interest both the public good and the rights of other
@@ -2429,7 +2429,7 @@ It may perhaps be replied to this, that whether the States are
  united or disunited, there would still be an intimate intercourse
  between them which would answer the same ends; this intercourse
  would be fettered, interrupted, and narrowed by a multiplicity of
- causes, which in the course of these papers have been amply detailed. 
+ causes, which in the course of these papers have been amply detailed.
  A unity of commercial, as well as political, interests, can only
  result from a unity of government.
 There are other points of view in which this subject might be
@@ -2837,7 +2837,7 @@ Such a fallacy may have been the less perceived, as most of the
  government, by the simple agency of which the will of the largest
  political body may be concentred, and its force directed to any
  object which the public good requires, America can claim the merit
- of making the discovery the basis of unmixed and extensive republics. 
+ of making the discovery the basis of unmixed and extensive republics.
  It is only to be lamented that any of her citizens should wish to
  deprive her of the additional merit of displaying its full efficacy
  in the establishment of the comprehensive system now under her
@@ -3201,7 +3201,7 @@ There was a time when we were told that breaches, by the States,
  the constitutional requisitions of the Union. This language, at the
  present day, would appear as wild as a great part of what we now
  hear from the same quarter will be thought, when we shall have
- received further lessons from that best oracle of wisdom, experience. 
+ received further lessons from that best oracle of wisdom, experience.
  It at all times betrayed an ignorance of the true springs by which
  human conduct is actuated, and belied the original inducements to
  the establishment of civil power. Why has government been
@@ -3321,7 +3321,7 @@ This exceptionable principle may, as truly as emphatically, be
  and that whenever they happen, the only constitutional remedy is
  force, and the immediate effect of the use of it, civil war.
 It remains to inquire how far so odious an engine of government,
- in its application to us, would even be capable of answering its end. 
+ in its application to us, would even be capable of answering its end.
  If there should not be a large army constantly at the disposal of
  the national government it would either not be able to employ force
  at all, or, when this could be done, it would amount to a war
@@ -3697,7 +3697,7 @@ In theory, and upon paper, this apparatus of powers seems amply
  maintained; they had a declared authority to use coercion against
  refractory cities, and were bound by oath to exert this authority on
  the necessary occasions.
-Very different, nevertheless, was the experiment from the theory. 
+Very different, nevertheless, was the experiment from the theory.
  The powers, like those of the present Congress, were administered
  by deputies appointed wholly by the cities in their political
  capacities; and exercised over them in the same capacities. Hence
@@ -3857,7 +3857,7 @@ The Achaeans were now reduced to the dilemma of submitting to
  made, eagerly embraced it. Philip was conquered; Macedon subdued.
  A new crisis ensued to the league. Dissensions broke out among it
  members. These the Romans fostered. Callicrates and other popular
- leaders became mercenary instruments for inveigling their countrymen. 
+ leaders became mercenary instruments for inveigling their countrymen.
  The more effectually to nourish discord and disorder the Romans
  had, to the astonishment of those who confided in their sincerity,
  already proclaimed universal liberty1 throughout Greece. With
@@ -3909,7 +3909,7 @@ In the early ages of Christianity, Germany was occupied by seven
  which Charlemagne had not abolished, gradually threw off the yoke
  and advanced to sovereign jurisdiction and independence. The force
  of imperial sovereignty was insufficient to restrain such powerful
- dependants; or to preserve the unity and tranquillity of the empire. 
+ dependants; or to preserve the unity and tranquillity of the empire.
  The most furious private wars, accompanied with every species of
  calamity, were carried on between the different princes and states.
  The imperial authority, unable to maintain the public order,
@@ -8388,8 +8388,8 @@ PUBLIUS.
 FEDERALIST No. 40
 The Powers of the Convention to Form a Mixed Government Examined
 and Sustained
-From the New York Packet. 
-Friday, January 18, 1788. 
+From the New York Packet.
+Friday, January 18, 1788.
 
 MADISON
 
@@ -8687,12 +8687,12 @@ to be embraced, if it be calculated to accomplish the views and
 happiness of the people of America. How far this character is due
 to the Constitution, is the subject under investigation. PUBLIUS.
 
-Connecticut and Rhode Island. Declaration of Independence. 
+Connecticut and Rhode Island. Declaration of Independence.
 
 
 FEDERALIST No. 41
 General View of the Powers Conferred by The Constitution
-For the Independent Journal. 
+For the Independent Journal.
 
 MADISON
 
@@ -9033,12 +9033,12 @@ and general welfare? I appeal to the objectors themselves,
 whether they would in that case have employed the same reasoning
 in justification of Congress as they now make use of against the
 convention. How difficult it is for error to escape its own
-condemnation! PUBLIUS. 
+condemnation! PUBLIUS.
 
 
 FEDERALIST No. 42
 The Powers Conferred by the Constitution Further Considered
-From the New York Packet. Tuesday, January 22, 1788. 
+From the New York Packet. Tuesday, January 22, 1788.
 
 MADISON
 
@@ -9057,7 +9057,7 @@ federal administration. If we are to be one nation in any
 respect, it clearly ought to be in respect to other nations. The
 powers to make treaties and to send and receive ambassadors,
 speak their own propriety. Both of them are comprised in the
-articles of Confederation, with this difference only, that the 
+articles of Confederation, with this difference only, that the
 former is disembarrassed, by the plan of the convention, of an
 exception, under which treaties might be substantially frustrated
 by regulations of the States; and that a power of appointing and
@@ -9253,7 +9253,7 @@ remarkable. Why the terms FREE INHABITANTS are used in one part
 of the article, FREE CITIZENS in another, and PEOPLE in another;
 or what was meant by superadding to ``all privileges and
 immunities of free citizens,'' ``all the privileges of trade and
-commerce,'' 
+commerce,''
 cannot easily be determined. It seems to be a construction
 scarcely avoidable, however, that those who come under the
 denomination of FREE INHABITANTS of a State, although not
@@ -9313,12 +9313,12 @@ jurisdiction. The power of establishing post roads must, in
 every view, be a harmless power, and may, perhaps, by judicious
 management, become productive of great public conveniency.
 Nothing which tends to facilitate the intercourse between the
-States can be deemed unworthy of the public care. PUBLIUS. 
+States can be deemed unworthy of the public care. PUBLIUS.
 
 FEDERALIST No. 43
 The Same Subject Continued (The Powers Conferred by the
 Constitution Further Considered)
-For the Independent Journal. 
+For the Independent Journal.
 
 MADISON
 
@@ -9522,7 +9522,7 @@ number so situated as to be less capable of a prompt and
 collected exertion of its strength? Nothing can be more
 chimerical than to imagine that in a trial of actual force,
 victory may be calculated by the rules which prevail in a census
-of the inhabitants, or which determine the event of an election! 
+of the inhabitants, or which determine the event of an election!
 May it not happen, in fine, that the minority of CITIZENS may
 become a majority of PERSONS, by the accession of alien
 residents, of a casual concourse of adventurers, or of those whom
@@ -9654,13 +9654,13 @@ respected; whilst considerations of a common interest, and,
 above all, the remembrance of the endearing scenes which are
 past, and the anticipation of a speedy triumph over the obstacles
 to reunion, will, it is hoped, not urge in vain MODERATION on one
-side, and PRUDENCE on the other. PUBLIUS. 
+side, and PRUDENCE on the other. PUBLIUS.
 
 
 FEDERALIST No. 44
 
 Restrictions on the Authority of the Several States
-From the New York Packet. Friday, January 25, 1788. 
+From the New York Packet. Friday, January 25, 1788.
 
 MADISON
 
@@ -9942,14 +9942,14 @@ question, therefore, whether this amount of power shall be
 granted or not, resolves itself into another question, whether or
 not a government commensurate to the exigencies of the Union
 shall be established; or, in other words, whether the Union
-itself shall be preserved. PUBLIUS. 
+itself shall be preserved. PUBLIUS.
 
 
 FEDERALIST No. 45
 
 The Alleged Danger From the Powers of the Union to the State
 Governments Considered
-For the Independent Fournal. 
+For the Independent Fournal.
 
 MADISON
 
@@ -10158,13 +10158,13 @@ constitutional powers, and have gradually undergone an entire
 consolidation. To maintain that such an event would have ensued,
 would be to say at once, that the existence of the State
 governments is incompatible with any system whatever that
-accomplishes the essential purposes of the Union. PUBLIUS. 
+accomplishes the essential purposes of the Union. PUBLIUS.
 
 
 FEDERALIST No. 46
 
 The Influence of the State and Federal Governments Compared
-From the New York Packet. Tuesday, January 29, 1788. 
+From the New York Packet. Tuesday, January 29, 1788.
 
 MADISON
 
@@ -10426,7 +10426,7 @@ FEDERALIST No. 47
 
 The Particular Structure of the New Government and the
 Distribution of Power Among Its Different Parts
-From the New York Packet. Friday, February 1, 1788. 
+From the New York Packet. Friday, February 1, 1788.
 
 MADISON
 
@@ -10479,7 +10479,7 @@ mirror of political liberty; and to have delivered, in the form
 of elementary truths, the several characteristic principles of
 that particular system. That we may be sure, then, not to mistake
 his meaning in this case, let us recur to the source from which
-the maxim was drawn.                                             
+the maxim was drawn.
                          On the slightest view of the British
 Constitution, we must perceive that the legislative, executive,
 and judiciary departments are by no means totally separate and
@@ -10543,8 +10543,8 @@ Were it joined to the executive power, THE JUDGE might behave
 with all the violence of AN OPPRESSOR. '' Some of these reasons
 are more fully explained in other passages; but briefly stated as
 they are here, they sufficiently establish the meaning which we
-have put on this celebrated maxim of this celebrated author.     
-                                                                
+have put on this celebrated maxim of this celebrated author.
+
 If we look into the constitutions of the several States, we find
 that, notwithstanding the emphatical and, in some instances, the
 unqualified terms in which this axiom has been laid down, there
@@ -10703,14 +10703,14 @@ violating the sacred maxim of free government, is warranted
 neither by the real meaning annexed to that maxim by its author,
 nor by the sense in which it has hitherto been understood in
 America. This interesting subject will be resumed in the ensuing
-paper. PUBLIUS. 
+paper. PUBLIUS.
 
 
 FEDERALIST No. 48
 
 These Departments Should Not Be So Far Separated as to Have No
 Constitutional Control Over Each Other
-From the New York Packet. Friday, February 1, 1788. 
+From the New York Packet. Friday, February 1, 1788.
 
 MADISON
 
@@ -10900,7 +10900,7 @@ observations is, that a mere demarcation on parchment of the
 constitutional limits of the several departments, is not a
 sufficient guard against those encroachments which lead to a
 tyrannical concentration of all the powers of government in the
-same hands. PUBLIUS. 
+same hands. PUBLIUS.
 
 
 FEDERALIST No. 49
@@ -10908,7 +10908,7 @@ FEDERALIST No. 49
 Method of Guarding Against the Encroachments of Any One
 Department of Government by Appealing to the People Through a
 Convention
-From the New York Packet. Tuesday, February 5, 1788. 
+From the New York Packet. Tuesday, February 5, 1788.
 
 HAMILTON OR MADISON
 
@@ -11070,13 +11070,13 @@ effectual provision for that purpose. How far the provisions of a
 different nature contained in the plan above quoted might be
 adequate, I do not examine. Some of them are unquestionably
 founded on sound political principles, and all of them are framed
-with singular ingenuity and precision. PUBLIUS. 
+with singular ingenuity and precision. PUBLIUS.
 
 
 FEDERALIST No. 50
 
 Periodical Appeals to the People Considered
-From the New York Packet. Tuesday, February 5, 1788. 
+From the New York Packet. Tuesday, February 5, 1788.
 
 HAMILTON OR MADISON
 
@@ -11189,14 +11189,14 @@ Although they might not have been personally concerned in the
 administration, and therefore not immediately agents in the
 measures to be examined, they would probably have been involved
 in the parties connected with these measures, and have been
-elected under their auspices. PUBLIUS. 
+elected under their auspices. PUBLIUS.
 
 
 FEDERALIST No. 51
 
 The Structure of the Government Must Furnish the Proper Checks
 and Balances Between the Different Departments
-From the New York Packet. Friday, February 8, 1788. 
+From the New York Packet. Friday, February 8, 1788.
 
 HAMILTON OR MADISON
 
@@ -11387,13 +11387,13 @@ a practical sphere, the more duly capable it will be of
 self-government. And happily for the REPUBLICAN CAUSE, the
 practicable sphere may be carried to a very great extent, by a
 judicious modification and mixture of the FEDERAL PRINCIPLE.
-PUBLIUS. 
+PUBLIUS.
 
 
 FEDERALIST No. 52
 
 The House of Representatives
-From the New York Packet. Friday, February 8, 1788. 
+From the New York Packet. Friday, February 8, 1788.
 
 HAMILTON OR MADISON
 
@@ -11573,12 +11573,12 @@ Representatives from their duty to the people, and the means of
 influence over the popular branch possessed by the other branches
 of the government above cited. With less power, therefore, to
 abuse, the federal representatives can be less tempted on one
-side, and will be doubly watched on the other. PUBLIUS. 
+side, and will be doubly watched on the other. PUBLIUS.
 
 FEDERALIST No. 53
 
 The Same Subject Continued (The House of Representatives)
-From the New York Packet. Tuesday, February 12, 1788. 
+From the New York Packet. Tuesday, February 12, 1788.
 
 HAMILTON OR MADISON
 
@@ -11666,7 +11666,7 @@ even more frequent, but subject to alterations by the ordinary
 power of the government? The second question stated is, whether
 biennial elections be necessary or useful. The propriety of
 answering this question in the affirmative will appear from
-several very obvious considerations.                             
+several very obvious considerations.
                                          No man can be a
 competent legislator who does not add to an upright intention and
 a sound judgment a certain degree of knowledge of the subjects on
@@ -11793,14 +11793,14 @@ check to unfair and illicit means of obtaining a seat. All these
 considerations taken together warrant us in affirming, that
 biennial elections will be as useful to the affairs of the public
 as we have seen that they will be safe to the liberty of the
-people. PUBLIUS. 
+people. PUBLIUS.
 
 
 FEDERALIST No. 54
 
 The Apportionment of Members Among the States
 
-From the New York Packet. Tuesday, February 12, 1788. 
+From the New York Packet. Tuesday, February 12, 1788.
 
 HAMILTON OR MADISON
 
@@ -11808,7 +11808,7 @@ To the People of the State of New York:
 THE next view which I shall take of the House of Representatives
 relates to the appointment of its members to the several States
 which is to be determined by the same rule with that of direct
-taxes.                                                           
+taxes.
            It is not contended that the number of people in each
 State ought not to be the standard for regulating the proportion
 of those who are to represent the people of each State. The
@@ -11993,13 +11993,13 @@ an interest in exaggerating their inhabitants. Were the rule to
 decide their share of taxation alone, a contrary temptation would
 prevail. By extending the rule to both objects, the States will
 have opposite interests, which will control and balance each
-other, and produce the requisite impartiality. PUBLIUS. 
+other, and produce the requisite impartiality. PUBLIUS.
 
 
 FEDERALIST No. 55
 
 The Total Number of the House of Representatives
-From the New York Packet. Friday, February 15, 1788. 
+From the New York Packet. Friday, February 15, 1788.
 
 HAMILTON OR MADISON
 
@@ -12069,7 +12069,7 @@ limit, in order to avoid the confusion and intemperance of a
 multitude. In all very numerous assemblies, of whatever character
 composed, passion never fails to wrest the sceptre from reason.
 Had every Athenian citizen been a Socrates, every Athenian
-assembly would still have been a mob.                            
+assembly would still have been a mob.
                                           It is necessary also to
 recollect here the observations which were applied to the case of
 biennial elections. For the same reason that the limited powers
@@ -12197,14 +12197,14 @@ among us faithful likenesses of the human character, the
 inference would be, that there is not sufficient virtue among men
 for self-government; and that nothing less than the chains of
 despotism can restrain them from destroying and devouring one
-another. PUBLIUS. 
+another. PUBLIUS.
 
 
 FEDERALIST No. 56
 
 The Same Subject Continued (The Total Number of the House of
 Representatives)
-From the New York Packet. Tuesday, February 19, 1788. 
+From the New York Packet. Tuesday, February 19, 1788.
 
 HAMILTON OR MADISON
 
@@ -12366,7 +12366,7 @@ FEDERALIST No. 57
 
 The Alleged Tendency of the New Plan to Elevate the Few at the
 Expense of the Many Considered in Connection with Representation
-From the New York Packet. Tuesday, February 19, 1788. 
+From the New York Packet. Tuesday, February 19, 1788.
 
 HAMILTON OR MADISON
 
@@ -12577,12 +12577,12 @@ the president of New Hampshire. I leave every man to decide
 whether the result of any one of these experiments can be said to
 countenance a suspicion, that a diffusive mode of choosing
 representatives of the people tends to elevate traitors and to
-undermine the public liberty. PUBLIUS. 
+undermine the public liberty. PUBLIUS.
 
 
 FEDERALIST No. 58
 Objection That The Number of Members Will Not Be Augmented as the
-Progress of Population Demands Considered 
+Progress of Population Demands Considered
 
 MADISON
 
@@ -12786,14 +12786,14 @@ itself even in States where a majority only is required; a
 practice subversive of all the principles of order and regular
 government; a practice which leads more directly to public
 convulsions, and the ruin of popular governments, than any other
-which has yet been displayed among us. PUBLIUS. 
+which has yet been displayed among us. PUBLIUS.
 
 
 FEDERALIST No. 59
 
 Concerning the Power of Congress to Regulate the Election of
 Members
-From the New York Packet. Friday, February 22, 1788. 
+From the New York Packet. Friday, February 22, 1788.
 
 HAMILTON
 
@@ -12976,7 +12976,7 @@ preservation, therefore ought in no case that can be avoided, to
 be committed to the guardianship of any but those whose situation
 will uniformly beget an immediate interest in the faithful and
 vigilant performance of the trust. PUBLIUS. Ist clause, 4th
-section, of the Ist article. 
+section, of the Ist article.
 
 
 FEDERALIST No. 60
@@ -14419,7 +14419,7 @@ But independent of this most active and operative principle, to
  counterbalance to that of determining them? The same house will be
  the umpire in all elections of the President, which do not unite the
  suffrages of a majority of the whole number of electors; a case
- which it cannot be doubted will sometimes, if not frequently, happen. 
+ which it cannot be doubted will sometimes, if not frequently, happen.
  The constant possibility of the thing must be a fruitful source of
  influence to that body. The more it is contemplated, the more
  important will appear this ultimate though contingent power, of
@@ -14428,7 +14428,7 @@ But independent of this most active and operative principle, to
  predict, that as a mean of influence it will be found to outweigh
  all the peculiar attributes of the Senate.
 A THIRD objection to the Senate as a court of impeachments, is
- drawn from the agency they are to have in the appointments to office. 
+ drawn from the agency they are to have in the appointments to office.
  It is imagined that they would be too indulgent judges of the
  conduct of men, in whose official creation they had participated.
  The principle of this objection would condemn a practice, which is
@@ -15028,7 +15028,7 @@ The President is to have power, with the advice and consent of
  treaty; and of adapting new provisions and precautions to the new
  state of things, to keep the machine from running into disorder. In
  this respect, therefore, there is no comparison between the intended
- power of the President and the actual power of the British sovereign. 
+ power of the President and the actual power of the British sovereign.
  The one can perform alone what the other can do only with the
  concurrence of a branch of the legislature. It must be admitted,
  that, in this instance, the power of the federal Executive would
@@ -15322,7 +15322,7 @@ It must be confessed that these observations apply with
  habitual feebleness and dilatoriness.
 But one of the weightiest objections to a plurality in the
  Executive, and which lies as much against the last as the first
- plan, is, that it tends to conceal faults and destroy responsibility. 
+ plan, is, that it tends to conceal faults and destroy responsibility.
  Responsibility is of two kinds to censure and to punishment. The
  first is the more important of the two, especially in an elective
  office. Man, in public trust, will much oftener act in such a
@@ -15636,7 +15636,7 @@ It must be confessed that these observations apply with
  habitual feebleness and dilatoriness.
 But one of the weightiest objections to a plurality in the
  Executive, and which lies as much against the last as the first
- plan, is, that it tends to conceal faults and destroy responsibility. 
+ plan, is, that it tends to conceal faults and destroy responsibility.
 Responsibility is of two kinds to censure and to punishment. The
  first is the more important of the two, especially in an elective
  office. Man, in public trust, will much oftener act in such a
@@ -15905,7 +15905,7 @@ It cannot be affirmed, that a duration of four years, or any
  effect upon the conduct of a man indued with a tolerable portion of
  fortitude; and in which he might reasonably promise himself, that
  there would be time enough before it arrived, to make the community
- sensible of the propriety of the measures he might incline to pursue. 
+ sensible of the propriety of the measures he might incline to pursue.
  Though it be probable that, as he approached the moment when the
  public were, by a new election, to signify their sense of his
  conduct, his confidence, and with it his firmness, would decline;
@@ -16369,7 +16369,7 @@ I have in another place remarked, that the convention, in the
  far in the political views of that magistrate, and thus a dangerous
  combination might by degrees be cemented between the executive and
  judiciary departments. It is impossible to keep the judges too
- distinct from every other avocation than that of expounding the laws. 
+ distinct from every other avocation than that of expounding the laws.
  It is peculiarly dangerous to place them in a situation to be
  either corrupted or influenced by the Executive.
 PUBLIUS.
@@ -16722,7 +16722,7 @@ Those who have themselves reflected upon the subject, or who
  estimate the peculiar qualities adapted to particular offices, than
  a body of men of equal or perhaps even of superior discernment.
 The sole and undivided responsibility of one man will naturally
- beget a livelier sense of duty and a more exact regard to reputation. 
+ beget a livelier sense of duty and a more exact regard to reputation.
  He will, on this account, feel himself under stronger obligations,
  and more interested to investigate with care the qualities requisite
  to the stations to be filled, and to prefer with impartiality the
@@ -16978,7 +16978,7 @@ The reverse of all this characterizes the manner of appointment
  is not known to what extent, or in what manner he exercises it; nor
  upon what occasions he is contradicted or opposed. The censure of a
  bad appointment, on account of the uncertainty of its author, and
- for want of a determinate object, has neither poignancy nor duration. 
+ for want of a determinate object, has neither poignancy nor duration.
  And while an unbounded field for cabal and intrigue lies open, all
  idea of responsibility is lost. The most that the public can know,
  is that the governor claims the right of nomination; that TWO out
@@ -17234,7 +17234,7 @@ This exercise of judicial discretion, in determining between two
  and operation. So far as they can, by any fair construction, be
  reconciled to each other, reason and law conspire to dictate that
  this should be done; where this is impracticable, it becomes a
- matter of necessity to give effect to one, in exclusion of the other. 
+ matter of necessity to give effect to one, in exclusion of the other.
  The rule which has obtained in the courts for determining their
  relative validity is, that the last in order of time shall be
  preferred to the first. But this is a mere rule of construction,
@@ -17439,7 +17439,7 @@ This, all circumstances considered, is the most eligible
  probably arose from the difference in the duration of the respective
  offices. As the President is to be elected for no more than four
  years, it can rarely happen that an adequate salary, fixed at the
- commencement of that period, will not continue to be such to its end. 
+ commencement of that period, will not continue to be such to its end.
  But with regard to the judges, who, if they behave properly, will
  be secured in their places for life, it may well happen, especially
  in the early stages of the government, that a stipend, which would
@@ -17646,7 +17646,7 @@ The reasonableness of the agency of the national courts in cases
 Having thus laid down and discussed the principles which ought
  to regulate the constitution of the federal judiciary, we will
  proceed to test, by these principles, the particular powers of
- which, according to the plan of the convention, it is to be composed. 
+ which, according to the plan of the convention, it is to be composed.
  It is to comprehend ``all cases in law and equity arising under
  the Constitution, the laws of the United States, and treaties made,
  or which shall be made, under their authority; to all cases
@@ -18009,7 +18009,7 @@ The propriety of this appellate jurisdiction has been scarcely
  of the civil-law mode of trial, which prevails in our courts of
  admiralty, probate, and chancery. A technical sense has been
  affixed to the term ``appellate,'' which, in our law parlance, is
- commonly used in reference to appeals in the course of the civil law. 
+ commonly used in reference to appeals in the course of the civil law.
  But if I am not misinformed, the same meaning would not be given
  to it in any part of New England. There an appeal from one jury to
  another, is familiar both in language and practice, and is even a
@@ -18218,7 +18218,7 @@ Here another question occurs: What relation would subsist
  the most important and avowed purposes of the proposed government,
  and would essentially embarrass its measures. Nor do I perceive any
  foundation for such a supposition. Agreeably to the remark already
- made, the national and State systems are to be regarded as ONE WHOLE. 
+ made, the national and State systems are to be regarded as ONE WHOLE.
  The courts of the latter will of course be natural auxiliaries to
  the execution of the laws of the Union, and an appeal from them will
  as naturally lie to that tribunal which is destined to unite and
@@ -18483,7 +18483,7 @@ The excellence of the trial by jury in civil cases appears to
  and it would be in most cases of little use to practice upon the
  jury, unless the court could be likewise gained. Here then is a
  double security; and it will readily be perceived that this
- complicated agency tends to preserve the purity of both institutions. 
+ complicated agency tends to preserve the purity of both institutions.
  By increasing the obstacles to success, it discourages attempts to
  seduce the integrity of either. The temptations to prostitution
  which the judges might have to surmount, must certainly be much
@@ -18719,7 +18719,7 @@ It may be asked, Why could not a reference have been made to the
  uncertain which of the States would have been taken as the model.
  It has been shown that many of them would be improper ones. And I
  leave it to conjecture, whether, under all circumstances, it is most
- likely that New York, or some other State, would have been preferred. 
+ likely that New York, or some other State, would have been preferred.
  But admit that a judicious selection could have been effected in
  the convention, still there would have been great danger of jealousy
  and disgust in the other States, at the partiality which had been
@@ -18850,7 +18850,7 @@ To the first I answer, that the Constitution proposed by the
  convention contains, as well as the constitution of this State, a
  number of such provisions.
 Independent of those which relate to the structure of the
- government, we find the following: Article 1, section 3, clause 7 
+ government, we find the following: Article 1, section 3, clause 7
  ``Judgment in cases of impeachment shall not extend further than to
  removal from office, and disqualification to hold and enjoy any
  office of honor, trust, or profit under the United States; but the
@@ -19478,5 +19478,3 @@ PUBLIUS.
 
 
 End of the Project Gutenberg Etext of the Federalist Papers
-
-
